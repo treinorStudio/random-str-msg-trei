@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-trei",
+  "version": "1.0.0",
+  "description": "Random String Messages from NPM course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Miguel Sanchez",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treinorstudio/random-str-msg-trei.git"
+  },
+  "homepage": "https://github.com/treinorstudio/random-str-mg-trei#readme",
+  "bin": {
+    "random-str-msg-trei": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
